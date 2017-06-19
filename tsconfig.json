@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "target":"es2016"
+  },
+  "compileOnSave": true,
+  "exclude": [
+    "obj",
+    "node_modules"
+  ]
+}
